@@ -1,0 +1,16 @@
+# Target de Maven (Compilados, .class, .jar)
+**/target/
+*.class
+
+# Archivos de configuración de VS Code y editores
+.vscode/
+.idea/
+*.suo
+*.ntvs*
+*.njsproj
+*.sln
+*.swp
+
+# Archivos del sistema operativo
+.DS_Store
+Thumbs.db
